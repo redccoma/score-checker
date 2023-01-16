@@ -1,2 +1,5 @@
-# score-chhecker
+# score-checker
 고스톱 점수 계산기 (wear os)
+
+# 목적
+현금없이 고스톱 칠때 간편히 점수 계산 후 계좌이체 처리하기 위한 연습용 앱
